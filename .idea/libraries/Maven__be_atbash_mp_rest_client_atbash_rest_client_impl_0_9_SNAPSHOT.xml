@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: be.atbash.mp.rest-client:atbash-rest-client-impl:0.9-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/be/atbash/mp/rest-client/atbash-rest-client-impl/0.9-SNAPSHOT/atbash-rest-client-impl-0.9-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/be/atbash/mp/rest-client/atbash-rest-client-impl/0.9-SNAPSHOT/atbash-rest-client-impl-0.9-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/be/atbash/mp/rest-client/atbash-rest-client-impl/0.9-SNAPSHOT/atbash-rest-client-impl-0.9-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

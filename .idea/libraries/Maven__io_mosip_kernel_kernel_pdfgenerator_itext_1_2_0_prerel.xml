@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.mosip.kernel:kernel-pdfgenerator-itext:1.2.0-prerel">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/mosip/kernel/kernel-pdfgenerator-itext/1.2.0-prerel/kernel-pdfgenerator-itext-1.2.0-prerel.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/mosip/kernel/kernel-pdfgenerator-itext/1.2.0-prerel/kernel-pdfgenerator-itext-1.2.0-prerel-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/mosip/kernel/kernel-pdfgenerator-itext/1.2.0-prerel/kernel-pdfgenerator-itext-1.2.0-prerel-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
